@@ -60,6 +60,4 @@ This application is designed to manage employee work hours. Employees can check 
 3. يقوم التطبيق بحساب **الساعات الإجمالية** للعمل ويخزن هذه البيانات في النظام الخلفي.
 4. يمكن للمستخدمين عرض ساعات العمل الخاصة بهم لشهر أو سنة **محددة** من خلال واجهة بسيطة لاختيار الشهر والسنة.
 
----
 
-This structure provides a clear, professional description of your app that can be added to your README file for both English and Arabic speakers.
